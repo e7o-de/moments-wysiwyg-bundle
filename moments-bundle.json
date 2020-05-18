@@ -1,0 +1,16 @@
+{
+	"scripts": [],
+	"assets": [
+		{
+			"from": "assets",
+			"to": "wysiwyg-bundle"
+		}
+	],
+	"include-scripts": [
+		"wysiwyg-bundle/tinymce.min.js"
+	],
+	"include-styles": [
+	],
+	"routes": [],
+	"services": {}
+}

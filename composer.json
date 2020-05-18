@@ -1,0 +1,15 @@
+{
+    "name": "e7o/moments-wysiwyg-bundle",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sven Herzky",
+            "email": "sven@e7o.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "e7o\\Moments\\Bundles\\WysiwygBundle\\": "src/e7o/Moments/Bundles/WysiwygBundle"
+        }
+    }
+}
